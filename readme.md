@@ -1,0 +1,1 @@
+React Context API will be used around our entire application
